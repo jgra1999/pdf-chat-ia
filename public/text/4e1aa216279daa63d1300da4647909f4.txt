@@ -1,0 +1,127 @@
+UNIVERSIDAD
+28
+wwwwww
+-.
+ARTURO
+---..
+MICHELENA
+UNIVERSIDAD ARTURO MICHELENA
+FACULTAD DE CIENCIAS DE LA SALUD
+ESCUELA DE PATOLOGÍA MÉDICA
+CITOTECNOLOGÍA II
+Profesora: Alexandra Santana
+Mama.
+San Diego, enero 2024.
+Estudiante:
+Gómez, Daniela.
+C.I.: 30.778.667.
+¿Qué son los receptores?
+Los receptores en el contexto del cáncer de mama se refieren a proteínas presentes en la
+superficie de las células cancerosas que pueden unirse a ciertas sustancias, como hormonas
+o factores de crecimiento, y desencadenar una respuesta en la célula. En el caso del cáncer
+de mama, los receptores más relevantes son los receptores de estrógeno (ER), los receptores
+de progesterona (PR) y el receptor del factor de crecimiento epidérmico humano 2 (HER2).
+Luminal A
+El subtipo de cáncer de mama luminal A se caracteriza por la presencia de receptores de
+estrógeno (ER) y/o receptores de progesterona (PR) en las células cancerosas, así como por
+la ausencia de sobreexpresión del receptor HER2. Este subtipo tiende a tener un pronóstico
+relativamente favorable en comparación con otros subtipos de cáncer de mama, ya que las
+células cancerosas son sensibles a las terapias hormonales dirigidas a los receptores de
+estrógeno y/o progesterona.
+En cuanto al tratamiento, las pacientes con cáncer de mama luminal A suelen recibir
+terapias hormonales, como el tamoxifeno o los inhibidores de la aromatasa, que bloquean
+los efectos de los estrógenos en las células cancerosas. Estas terapias pueden reducir el
+riesgo de recurrencia del cáncer y mejorar la supervivencia.
+Luminal B
+El subtipo de cáncer de mama luminal B se caracteriza por la presencia de receptores de
+estrógeno (ER) y/o receptores de progesterona (PR) en las células cancerosas, al igual que
+el subtipo luminal A, pero se distingue por presentar sobreexpresión del receptor HER2.
+Este subtipo tiende a tener un pronóstico menos favorable que el luminal A, ya que las
+células cancerosas pueden ser menos sensibles a las terapias hormonales y pueden requerir
+tratamientos adicionales.
+En cuanto al tratamiento, las pacientes con cáncer de mama luminal B suelen recibir
+terapias hormonales, como el tamoxifeno o los inhibidores de la aromatasa, al igual que en
+el subtipo luminal A. Sin embargo, debido a la sobreexpresión del receptor HER2, también
+pueden beneficiarse de terapias dirigidas específicamente a este receptor, como el
+trastuzumab o el pertuzumab. Estas terapias dirigidas a HER2 pueden mejorar el pronóstico
+y la supervivencia en pacientes con cáncer de mama luminal B.
+HER2
+El receptor HER2 (también conocido como HER2/neu o ERBB2) es una proteína que se
+encuentra en la superficie de algunas células cancerosas y que puede promover el
+crecimiento y la división celular. La sobreexpresión o amplificación del receptor HER2 está
+asociada con un pronóstico menos favorable en pacientes con cáncer de mama, ya que se ha
+demostrado que estas células cancerosas tienden a ser más agresivas y a tener una mayor
+tasa de crecimiento.
+En el contexto del cáncer de mama luminal B, la sobreexpresión del receptor HER2 es una
+característica distintiva de este subtipo, y puede influir en el pronóstico y en las opciones de
+tratamiento. Las pacientes con cáncer de mama luminal B que presentan sobreexpresión del
+receptor HER2 suelen tener un pronóstico menos favorable en comparación con aquellas
+que no sobreexpresan HER2, ya que las células cancerosas pueden ser menos sensibles a
+las terapias hormonales y pueden requerir tratamientos adicionales.
+El tratamiento del cáncer de mama luminal B con sobreexpresión del receptor HER2 suele
+incluir terapias dirigidas específicamente a este receptor, como el trastuzumab o el
+pertuzumab. Estas terapias dirigidas a HER2 han demostrado mejorar el pronóstico y la
+supervivencia en pacientes con cáncer de mama luminal B, al interferir con las señales de
+crecimiento celular inducidas por la sobreexpresión de HER2.
+Triple negativo
+El cáncer de mama triple negativo es un subtipo agresivo de cáncer de mama que se
+caracteriza por la ausencia de receptores de estrógeno, progesterona y sobreexpresión del
+receptor HER2. Debido a esta falta de receptores, las opciones de tratamiento para el cáncer
+de mama triple negativo suelen ser más limitadas en comparación con otros subtipos de
+cáncer de mama. El pronóstico para las pacientes con cáncer de mama triple negativo
+tiende a ser menos favorable, ya que estas células cancerosas tienden a ser más agresivas y
+a tener una mayor tasa de crecimiento.
+El tratamiento del cáncer de mama triple negativo a menudo incluye la cirugía, la
+quimioterapia y, en algunos casos, la radioterapia. Dado que las células cancerosas no
+expresan receptores hormonales ni sobreexpresión de HER2, las terapias dirigidas a estos
+receptores, como el tamoxifeno o el trastuzumab, no suelen ser efectivas en el cáncer de
+mama triple negativo.
+La zona gris de la citología en la glándulas mamarias con su diagnóstico diferenciales
+La "zona gris" en citología de la glándula mamaria se refiere a un área de incertidumbre en
+la interpretación de los resultados citológicos, donde no es claramente benigna ni
+claramente maligna. Esta zona gris puede presentarse en diferentes contextos, como en la
+evaluación de lesiones proliferativas, lesiones atípicas o lesiones de origen indeterminado.
+1. Lesiones proliferativas con atipia:
+• Diagnóstico diferencial: Hiperplasia ductal atípica vs. carcinoma ductal in
+situ DIS)
+La hiperplasia ductal atípica se caracteriza por un crecimiento anormal de
+las células en los conductos de la glándula mamaria, con algunas
+características atípicas, pero sin invasión a través de la membrana basal. El
+CDIS, por otro lado, implica un crecimiento anormal de las células que se
+encuentran confinados dentro de los conductos, pero con potencial invasivo.
+La diferenciación entre ambas entidades puede ser desafiante en la citología,
+ya que comparten características morfológicas similares.
+2. Lesiones atípicas:
+• Diagnóstico diferencial: Lesiones papilares atípicas vs. carcinoma papilar
+Las lesiones papilares atípicas pueden presentar cambios celulares
+sugestivos de malignidad, pero sin llegar a cumplir todos los criterios para
+ser diagnosticadas como carcinoma papilar. La distinción entre ambas
+entidades puede ser difícil en la citología, ya que la presencia de atipia
+celular puede superponerse entre ambas.
+3. Lesiones de origen indeterminado:
+Diagnóstico diferencial: Lesiones de células escamosas indeterminadas vs.
+carcinoma escamoso
+En algunos casos, las muestras citológicas pueden mostrar cambios celulares
+que sugieren la posibilidad de carcinoma escamoso, pero sin llegar a ser
+concluyentes. La diferenciación entre lesiones benignas o reactivas y
+lesiones malignas puede ser difícil en este contexto.
+Referencias bibliográficas.
+1.La citología de mama. Institut Marquès. (s. f.). Institut Marquès.
+https://institutomarques.com/ginecologia/unidad-de-la-mujer/citologia/citologia-de-mama/
+cáncer
+2.Subtipos
+moleculares
+de
+de
+%20pueden%20responder%20al%20tratamiento.
+mama.
+(s.
+f.).
+https://www.breastcancer.org/es/tipos/subtipos-moleculares
+3. Irigoyen, M., García, F. V., Iturriagagoitia, A. C., Beroiz, B. I., Martínez, M., & Grimá,
+F. G. (2011). Subtipos moleculares del cáncer de mama: implicaciones pronósticas y
+características clínicas e inmunohistoquímicas. Anales Del Sistema Sanitario De Navarra,
+34(2), 219-233. https://doi.org/10.4321/s1137-66272011000200008
+4. Tipos de cáncer de mama: qué significa tu tipo. (2023, 18 marzo). Mayo Clinic.
+https://www.mayoclinic.org/es/diseases-conditions/breast-cancer/in-depth/breast-cancer/art-
+20045654#:~:text=Algunos%20subtipos%20de%20c%C3%A1ncer%20de,c%C3%A9lulas
