@@ -16,7 +16,8 @@
     const handleSubmit = async (event) => {
         event.preventDefault();
         
-        loading = true 
+        loading = true
+        let answer = ''
 
         const question = event.target.question.value
 
@@ -25,27 +26,21 @@
         searchParams.append('question',question)
 
        try {
-        const res = await fetch(`/api/ask?${searchParams.toString()}`, {
-            headers: {
-                'content-type': 'application/json'
-            },
-            // body: JSON.stringify({
-            //     id,
-            //     question
-            // })
-        })
+        const eventSource = new EventSource(`/api/ask?${searchParams.toString()}`)
 
-        if(!res.ok){
+        eventSource.onmessage = (event) => {
             loading = false
-            console.log('Error asking question');
-            return
+
+            const incomingData = JSON.parse(event.data)
+
+            if(incomingData === '__END__'){
+                eventSource.close()
+                return
+            }
+
+            answer += incomingData
         }
 
-        // const {answer: apiAnswer} = await res.json()
-        const response = await res.json()
-        console.log("🚀 ~ handleSubmit ~ response:", response)
-
-        answer = apiAnswer
        } catch (error) {
         console.log(error)
         setAppStatusError()
